@@ -1,6 +1,6 @@
 # webdownloader
 
-Every needed to download all PDFs/MP4s/ZIPs linked on a webpage,
+Ever needed to download all PDFs/MP4s/ZIPs linked on a webpage,
 for example for downloading lecture notes?
 
 webdownloader is a command line tool wrriten in Python/asyncio that does exactly that.
